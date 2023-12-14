@@ -16,6 +16,20 @@ body {
   text-align: center; /* Center text */
 }
 
+#about {
+    background-color: #5C6BC0;
+  outline-style: solid;
+  outline-color: #4A148C;
+  color: #4A148C;
+  font-size: 15px;
+  margin-top: 45px;
+  margin-left: 200px; /* Adjusted margin */
+  margin-right: 200px; /* Adjusted margin */
+  border-radius: 20px;
+  padding: 10px;
+  letter-spacing: 2px;
+}
+
 #title {
   background-color: #5C6BC0;
   outline-style: solid;
@@ -56,6 +70,7 @@ body {
   height: 70px;
   width: 300px;
   margin-left: 740px;
+  margin-bottom: 40px;
   font-size: 30px;
   border-radius: 40px;
 }
